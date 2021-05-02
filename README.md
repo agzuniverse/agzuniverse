@@ -2,7 +2,6 @@
 
 And I like to code.
 
-- 🔭 I’m currently looking for new things to work on!
 - 🌱 I’m currently seeking inspiration while trying to get better at C++.
 - 💬 Ask me about life, the universe and everything in between. I enjoy thoughtful conversations.
 - :question: For more info about me, check out my [personal website](https://agzuniverse.github.io/).
